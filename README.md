@@ -1,6 +1,6 @@
 # Trombinoscope
 
-Welcome to the Trombinoscope project made with React Native and Expo. This document describes the features, installation, and structure of this project.
+Welcome to the Photo Directory project made with React Native and Expo. This document describes the features, and structure of this project.
 
 ## Technologies Used
 
